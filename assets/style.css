@@ -1,0 +1,24 @@
+body {
+    background-image: url(tim\ background\ web.png);
+    background-size: cover;
+    font-family: 'Roboto Slab', serif;
+}
+
+.img-fluid {
+    margin-right: 20px;
+    height: auto;
+    max-width: 100%;
+    border: black;
+}
+
+.my-content {
+    background: white ;
+    opacity: .8;
+    border: black;
+    padding: 20px;
+}
+
+.card {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
