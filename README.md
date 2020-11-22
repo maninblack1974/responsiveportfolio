@@ -9,7 +9,7 @@ This portfolio is an ongoing project I am building to show off my work and skill
 
 ![Screen Shot 2020-11-21 at 11 47 37 PM](https://user-images.githubusercontent.com/25594179/99898298-2b959e00-2c55-11eb-91e2-bb883f6ad56b.png)
 
- ## BeerMe Application Link:
+ ## Portfolio Application Link:
  https://maninblack1974.github.io/responsiveportfolio/
 
  ## License 
